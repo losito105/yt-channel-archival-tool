@@ -64,3 +64,7 @@ That's it! You are now able to view the download progress of each video as YTbkp
 
 *I do not take credit for writing any of the code included in any of this application's dependencies.*
 *This project was created as an exercise in learning* `Vim` *and writing bash scripts and as such does little more than tie existing applications together.*
+
+<h1>Demo</h1>
+
+https://user-images.githubusercontent.com/43625213/158514143-5f74dfbf-dcaa-434d-9daa-9c13d4659b45.mp4
