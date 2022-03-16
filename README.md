@@ -44,7 +44,7 @@ Install Dependencies:
   </tr>
 </table>
 
-- Open a Unix terminal (macOS & Linux)
+- Open a Unix terminal (`macOS` & `Linux`)
 - Navigate to a directory where you'd like to clone the repository (see `man cd`)
 - Clone this repository into the selected directory (see `man git-clone`)
 - Navigate into the the cloned project's directory
@@ -52,6 +52,15 @@ Install Dependencies:
 - When prompted, enter the name of a YouTube channel
   - Note that spelling & spacing are important here
   - Channel name can be found here: `https://www.youtube.com/c/<channel-name>/videos`
-- That's it!
 
-You are now able to view the download progress of each video as YTbkp executes.
+That's it! You are now able to view the download progress of each video as YTbkp executes.
+
+<h1>Additional Features Coming Soon</h1>
+
+- The ability to archive or download youtube videos into a specified directory (rather than only the directory within which the bash script was run).
+- The ability to select specific videos for download (currently only complete archival of a channel is supported)
+
+<h1>Important Note:</h1>
+
+*I do not take credit for writing any of the code included in any of this application's dependencies.*
+*This project was created as an exercise in learning* `Vim` *and writing bash scripts and as such does little more than tie existing applications together.*
