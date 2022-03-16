@@ -55,7 +55,7 @@ Install Dependencies:
 
 That's it! You are now able to view the download progress of each video as YTbkp executes.
 
-<h1>Additional Features Coming Soon</h1>
+<h1>Additional Features (Coming Soon)</h1>
 
 - The ability to archive or download youtube videos into a specified directory (rather than only the directory within which the bash script was run).
 - The ability to select specific videos for download (currently only complete archival of a channel is supported)
